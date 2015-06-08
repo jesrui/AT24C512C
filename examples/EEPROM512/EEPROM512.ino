@@ -1,5 +1,5 @@
 /*
-  EEPROM512.pde
+  EEPROM512.ino
   AT24C512C EEPROM Benchmark Sketch 
   
   Find on GitHub:
